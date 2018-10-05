@@ -36,6 +36,8 @@ charging:
 
 #### originalXbox-related stuff
 - http://euc.jp/periphs/xbox-controller.ja.html
+- https://bunniefoo.com/nostarch/HackingTheXbox_Free.pdf => Bunnie's Book !!! :D
+- https://www.iacr.org/workshops/ches/ches2002/presentations/Huang.pdf
 
 #### Xbox360-related stuff
 - https://www.withoutthesarcasm.com/using-a-mouse-and-keyboard-for-console-games/4/ --> close to what i did for original xbox
@@ -49,6 +51,17 @@ charging:
 - https://github.com/xxxajk/cores/commit/f8938ec150118ef0aac2d0712f35f176006345bb --> Fix Yield when no Serial on USB
 - https://brandonw.net/360bridge/
 - https://cronusmax.com/ --> expensive adapter :/
+
+#### Xbox360-security related stuff
+- https://www.engadget.com/2010/02/12/christopher-tarnovsky-hacks-infineons-unhackable-chip-we-pre/
+- https://www.eastbaytimes.com/2010/02/08/super-security-chip-unlocked/
+- https://forums.shoryuken.com/t/xbox-360-controller-authentication-workarounds/145838/13
+- https://www.theregister.co.uk/2010/02/17/infineon_tpm_crack/
+- https://hackaday.com/2015/12/23/usb-proxy-rats-out-your-devices-secrets/
+- http://gimx.fr/wiki/index.php?title=DIY_USB_adapter
+- http://blog.gimx.fr/serialusb/
+- https://gimx.fr/wiki/index.php?title=DIY_USB_adapter
+- https://gimx.fr/wiki/index.php?title=DIY_USB_adapter_for_dummies
 
 #### XboxOne-related stuff
 - https://github.com/JRHeaton/XboxOneControllerDev
