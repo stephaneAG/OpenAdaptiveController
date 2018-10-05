@@ -1,6 +1,10 @@
 # OpenAdaptiveController
 Repo dedicated to getting a "universal" controller close to the XboX one ( goal is to work on PC(HID)/Xbox360/One/PS3 )
 
+## related discussions on Espruino forums
+- http://forum.espruino.com/conversations/325589/ -> Espruino GamePad ( USB HID, BLE HID, RN42 HID, PC USB XBOX360 ? .. )
+- http://forum.espruino.com/conversations/1092/ -> rn-42 
+
 #### stuff to read / digg
 - https://github.com/NordicSemiconductor/ble-sdk-arduino/blob/master/libraries/BLE/examples/ble_HID_template/USD%20HID%20Report%20Descriptor%20-%20Joystick.txt
 - https://geekhack.org/index.php?topic=79025.0
